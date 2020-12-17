@@ -1,5 +1,5 @@
 # This script was developed in order to gain an understanding of the encoding methods used in the Solwarwinds/SUNBURST backdoor DLL
-# Feel free to use it for learning/understanding as per the licence included in the main repo: <repo link>
+# Feel free to use it for learning/understanding as per the licence included in the main repo: https://github.com/Pir00t/sunburst_kit/blob/main/LICENSE
 
 from fnvhash import fnv1a_64 # needs installed via PyPi
 
